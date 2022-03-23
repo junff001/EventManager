@@ -1,0 +1,16 @@
+E:\Visual Studio Project\EventManager\EventManager\bin\Debug\net5.0\EventManager.exe
+E:\Visual Studio Project\EventManager\EventManager\bin\Debug\net5.0\EventManager.deps.json
+E:\Visual Studio Project\EventManager\EventManager\bin\Debug\net5.0\EventManager.runtimeconfig.json
+E:\Visual Studio Project\EventManager\EventManager\bin\Debug\net5.0\EventManager.runtimeconfig.dev.json
+E:\Visual Studio Project\EventManager\EventManager\bin\Debug\net5.0\EventManager.dll
+E:\Visual Studio Project\EventManager\EventManager\bin\Debug\net5.0\ref\EventManager.dll
+E:\Visual Studio Project\EventManager\EventManager\bin\Debug\net5.0\EventManager.pdb
+E:\Visual Studio Project\EventManager\EventManager\obj\Debug\net5.0\EventManager.csprojAssemblyReference.cache
+E:\Visual Studio Project\EventManager\EventManager\obj\Debug\net5.0\EventManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Project\EventManager\EventManager\obj\Debug\net5.0\EventManager.AssemblyInfoInputs.cache
+E:\Visual Studio Project\EventManager\EventManager\obj\Debug\net5.0\EventManager.AssemblyInfo.cs
+E:\Visual Studio Project\EventManager\EventManager\obj\Debug\net5.0\EventManager.csproj.CoreCompileInputs.cache
+E:\Visual Studio Project\EventManager\EventManager\obj\Debug\net5.0\EventManager.dll
+E:\Visual Studio Project\EventManager\EventManager\obj\Debug\net5.0\ref\EventManager.dll
+E:\Visual Studio Project\EventManager\EventManager\obj\Debug\net5.0\EventManager.pdb
+E:\Visual Studio Project\EventManager\EventManager\obj\Debug\net5.0\EventManager.genruntimeconfig.cache
